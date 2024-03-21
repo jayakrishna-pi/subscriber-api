@@ -1,0 +1,8 @@
+
+###
+POST http://localhost:2000/subscribe
+Content-Type: application/json
+
+{
+    "email": "jaya@email.com"
+}
