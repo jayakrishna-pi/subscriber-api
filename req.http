@@ -6,3 +6,13 @@ Content-Type: application/json
 {
     "email": "jaya@email.com"
 }
+
+###
+POST http://localhost:2000/signup
+Content-Type: application/json
+
+{
+    "userName":"jaya",
+    "email": "34590@gmail.com",
+    "password":"1234"
+}
